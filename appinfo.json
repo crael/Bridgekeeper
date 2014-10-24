@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "message": 1,
+        "request": 2,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "christopher.rael@gmail.com",
+    "longName": "Bridgekeeper",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/grail.png",
+                "menuIcon": true,
+                "name": "Grail",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Bridgekeeper",
+    "uuid": "08caf9b1-341b-4fe1-be7d-677b1b8d54c7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
